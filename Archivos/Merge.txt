@@ -1,3 +1,6 @@
 Santiago Rivera Mejia, 21
 
 Mejorar mis conocimientos de programacion. 
+Debido a que la caperta ya no estaba vacia, se pudo subir de forma exitosa.
+
+Es importante tener cuidado al modificar 2 archivos al mismo tiempo ya que se pueden generar conflictos a la hora de guardar los cambios.
